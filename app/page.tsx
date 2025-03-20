@@ -118,10 +118,10 @@ export default function Home() {
       // In a real app, this would parse the QR code data
       // For demo purposes, we'll use mock data
       const mockReceiptData = [
-        { id: 1, name: "GLASS STAR #148", qty: 1, price: 8.5, assigned: false },
-        { id: 2, name: "NOODLES (L)", qty: 2, price: 12.5, assigned: false },
-        { id: 3, name: "FRIED RICE", qty: 1, price: 9.75, assigned: false },
-        { id: 4, name: "SPRING ROLLS", qty: 3, price: 4.5, assigned: false },
+        { id: 1, name: "Roti Kosong Kaw", qty: 1, price: 8.5, assigned: false },
+        { id: 2, name: "Nasi Goreng Roger", qty: 2, price: 12.5, assigned: false },
+        { id: 3, name: "Sirap tak bandung", qty: 1, price: 9.75, assigned: false },
+        { id: 4, name: "Nasi Batuk Ayam", qty: 3, price: 4.5, assigned: false },
       ]
 
       setReceiptItems(mockReceiptData)
