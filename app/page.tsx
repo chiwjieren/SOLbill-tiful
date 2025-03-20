@@ -32,7 +32,7 @@ export default function Home() {
     {
       id: 1,
       date: "March 18, 2025",
-      restaurant: "Crypto Cafe",
+      restaurant: "Raju dan Mei Ling",
       amount: 35.75,
       participants: 1,
       status: "completed",
@@ -42,8 +42,8 @@ export default function Home() {
     {
       id: 2,
       date: "March 15, 2025",
-      restaurant: "Web3 Diner",
-      amount: 42.2,
+      restaurant: "Jerone's steakhouse",
+      amount: 432.2,
       participants: 1,
       status: "completed",
       txHash: "2KpL8...7Rt3v",
@@ -52,7 +52,7 @@ export default function Home() {
     {
       id: 3,
       date: "March 10, 2025",
-      restaurant: "Blockchain Bistro",
+      restaurant: "Nasi Ayam Viral",
       amount: 67.5,
       participants: 1,
       status: "completed",
