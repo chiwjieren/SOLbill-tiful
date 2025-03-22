@@ -32,7 +32,7 @@ export default function Home() {
     {
       id: 1,
       date: "March 18, 2025",
-      restaurant: "Raju dan Mei Ling",
+      restaurant: "Air Potong Kaki",
       amount: 35.75,
       participants: 1,
       status: "completed",
